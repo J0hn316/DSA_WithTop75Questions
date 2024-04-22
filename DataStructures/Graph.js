@@ -1,6 +1,6 @@
 // Graph data structure
-// Edge list example
 
+// Edge list example
 const graph1 = [
   [0, 2],
   [2, 3],
